@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">An Undergrad at IISER Kolkata</h3>
 I'm Manish, an undergraduate at IISER Kolkata enrolled in the BSMS course.
-I'm still learning basic web design and programming with Python, C, and Java.
-I'm also a 3D artist and an amateur film maker.
+I'm still learning basic web design and programming with Python, C, and ruby.
+I'm also a 3D artist and an amateur filmmaker.
 
 - 🌱 I’m currently learning **Computational science and data visualization**
 
