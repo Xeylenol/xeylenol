@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">An Undergrad at IISER Kolkata</h3>
 
+Hello there, fellow earthlings. I am An Undergrad at IISER Kolkata, an overall computer science and physics enthusiast, and an art enjoyer and creator.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
