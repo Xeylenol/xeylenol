@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">An Undergrad at IISER Kolkata</h3>
 
-Hello there, fellow earthlings. I am An Undergrad at IISER Kolkata, an overall computer science and physics enthusiast, and an art enjoyer and creator.
+Hello there, fellow earthlings. I am an Undergraduate at IISER Kolkata, an overall computer science and physics enthusiast, and an art enjoyer and creator.
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b3663675205363f1c943728685fbfc21f9a83934&rid=giphy.gif&ct=g">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xeylenol&label=Profile%20views&color=0e75b6&style=flat" alt="xeylenol" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
